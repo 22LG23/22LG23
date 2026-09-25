@@ -2,5 +2,5 @@
 
 * Computer Science Master Student at University of Amsterdam and Vrije University Amsterdam
 * Bachelor Degree in Computer Science at the University of Milano-Bicocca
-* Passionate about Computer Systems
+* Interested in Computer Systems and Databases
 * Former intern at Booking.com, JustEat Takeaway.com
